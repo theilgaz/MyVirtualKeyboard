@@ -16,6 +16,9 @@ ShowKeyboardOnForm makes VK enabled in form.
 
 HideKeyboardOnForm makes VK disabled in form.
 
+## Supported IDE Versions
+Tested on XE8, XE10 (Seattle), XE10.1 (Berlin). 
+
 
 # [TR] MyVirtualKeyboard
 ## Hakkında
@@ -34,3 +37,6 @@ HideKeyboardOn(AControl: TControl) sanal klavyeyi pasif yapar ve AControl odakla
 ShowKeyboardOnForm tüm form içinde sanal klavye aktif olur.
 
 HideKeyboardOnForm tüm form içinde sanal klavye pasif olur.
+
+## Desteklenen IDE Sürümleri
+XE8, XE10 (Seattle) ve XE10.1 (Berlin) sürümlerinde testleri yapılmıştır.
