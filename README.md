@@ -1,4 +1,4 @@
-# MyVirtualKeyboard
+# [EN] MyVirtualKeyboard 
 ## About
 Delphi FMX Virtual Keyboard Management Functions
 
@@ -14,7 +14,7 @@ ShowKeyboardOnForm makes VK enabled in form.
 HideKeyboardOnForm makes VK disabled in form.
 
 
-# MyVirtualKeyboard
+# [TR] MyVirtualKeyboard
 ## Hakkında
 Delphi FMX Sanal Klavye Yönetim Fonksiyonları
 
