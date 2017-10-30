@@ -9,8 +9,11 @@ Basically this functions helps you for being comfortable in your rapid developme
 ## How it works?
 
 ShowKeyboardOn(AControl: TControl) makes VK visible and focused on AControl.
-HideKeyboardOn(AControl: TControl) makes VK disabled and still focused on AControl
+
+HideKeyboardOn(AControl: TControl) makes VK disabled and still focused on AControl.
+
 ShowKeyboardOnForm makes VK enabled in form.
+
 HideKeyboardOnForm makes VK disabled in form.
 
 
@@ -25,6 +28,9 @@ Bu fonksiyonlar konforlu bir biçimde hızlı geliştirmeler yaparken sanal klav
 ## Nasıl kullanılır?
 
 ShowKeyboardOn(AControl: TControl) sanal klavyeyi aktif yapar ve AControl parametresine odaklanır.
+
 HideKeyboardOn(AControl: TControl) sanal klavyeyi pasif yapar ve AControl odaklanmasını sürdürür.
-ShowKeyboardOnForm tüm form içinde sanal klavye aktif olur
-HideKeyboardOnForm tüm form içinde sanal klavye pasif olur
+
+ShowKeyboardOnForm tüm form içinde sanal klavye aktif olur.
+
+HideKeyboardOnForm tüm form içinde sanal klavye pasif olur.
