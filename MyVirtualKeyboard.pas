@@ -1,10 +1,10 @@
 unit MyVirtualKeyboard;
 {******************************************}
-{*									      *}	
+{*									                      *}	
 {* Delphi FMX Virtual Keyboard Management *}
-{* Author: Abdullah Ilgaz   		      *}
-{* Created on 18.05.2017			      *}
-{*									      *}
+{* Author: Abdullah Ilgaz   		          *}
+{* Created on 18.05.2017			            *}
+{*									                      *}
 {******************************************}
 
 interface
